@@ -2,7 +2,7 @@
 Final Project for CSC321
 
 ## Proposed Architecture
-The GradeMyGame application will consist of an HTML, CSS, and JavaScript front end with a Flask back end. A SQL database will be used to store user-generated content, game reviews, and community interactions.
+GradeMyGame will consist of an HTML, CSS, and JavaScript front end with a Flask back end. A SQL database will be used to store user-generated content, game reviews, and community interactions.
 
 ## Database Schema (Initial)
 - **Users**: 
